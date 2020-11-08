@@ -1,7 +1,3 @@
-/* BME506 - 02: Lab 5
- * Author: Vivian Tan (500819934)
- * Due: November 8, 2020
- */
 #ifndef PATIENT_H_
 #define PATIENT_H_
 
